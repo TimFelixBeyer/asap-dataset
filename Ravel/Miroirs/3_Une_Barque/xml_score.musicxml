@@ -61429,7 +61429,7 @@
       <note default-x="36.76" default-y="-167.40" print-object="no">
         <pitch>
           <step>A</step>
-          <octave>2</octave>
+          <octave>3</octave>
           </pitch>
         <duration>480</duration>
         <tie type="stop"/>
@@ -61445,7 +61445,7 @@
         <chord/>
         <pitch>
           <step>D</step>
-          <octave>3</octave>
+          <octave>4</octave>
           </pitch>
         <duration>480</duration>
         <tie type="stop"/>
@@ -61462,7 +61462,7 @@
         <pitch>
           <step>F</step>
           <alter>1</alter>
-          <octave>3</octave>
+          <octave>4</octave>
           </pitch>
         <duration>480</duration>
         <tie type="stop"/>
@@ -61478,7 +61478,7 @@
         <chord/>
         <pitch>
           <step>A</step>
-          <octave>3</octave>
+          <octave>4</octave>
           </pitch>
         <duration>480</duration>
         <tie type="stop"/>
@@ -63957,10 +63957,10 @@
           <step>D</step>
           <octave>5</octave>
           </pitch>
-        <duration>480</duration>
+        <duration>960</duration>
         <tie type="start"/>
         <voice>5</voice>
-        <type>quarter</type>
+        <type>half</type>
         <stem>down</stem>
         <notehead filled="no">normal</notehead>
         <staff>2</staff>
@@ -63980,13 +63980,6 @@
           </direction-type>
         <staff>2</staff>
         </direction>
-      <note print-object="no">
-        <rest/>
-        <duration>480</duration>
-        <voice>5</voice>
-        <type>quarter</type>
-        <staff>2</staff>
-        </note>
       <note default-x="1258.80" default-y="-177.40">
         <pitch>
           <step>D</step>

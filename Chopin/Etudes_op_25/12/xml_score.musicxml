@@ -3086,7 +3086,6 @@
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
-        <tie type="start"/>
         <voice>2</voice>
         <type>quarter</type>
         <time-modification>
@@ -3097,7 +3096,6 @@
         <stem>down</stem>
         <staff>1</staff>
         <notations>
-          <tied type="start"/>
           <tuplet type="start" bracket="no" show-number="none"/>
           </notations>
         </note>
@@ -3558,25 +3556,8 @@
           </notations>
         </note>
       <backup>
-        <duration>16</duration>
+        <duration>15</duration>
         </backup>
-      <note default-x="12.00" default-y="-25.00" print-object="no" dynamics="77.78">
-        <cue/>
-        <pitch>
-          <step>A</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-          </pitch>
-        <duration>1</duration>
-        <tie type="stop"/>
-        <voice>2</voice>
-        <type>16th</type>
-        <stem>none</stem>
-        <staff>1</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
-        </note>
       <note default-x="45.33" default-y="-30.00" dynamics="86.67">
         <pitch>
           <step>G</step>
@@ -24679,7 +24660,6 @@
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
-        <tie type="start"/>
         <voice>2</voice>
         <type>quarter</type>
         <time-modification>
@@ -24690,7 +24670,6 @@
         <stem>down</stem>
         <staff>1</staff>
         <notations>
-          <tied type="start"/>
           <tuplet type="start" bracket="no" show-number="none"/>
           </notations>
         </note>
@@ -25163,25 +25142,8 @@
           </notations>
         </note>
       <backup>
-        <duration>16</duration>
+        <duration>15</duration>
         </backup>
-      <note default-x="86.46" default-y="-25.00" print-object="no" dynamics="124.44">
-        <cue/>
-        <pitch>
-          <step>A</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-          </pitch>
-        <duration>1</duration>
-        <tie type="stop"/>
-        <voice>2</voice>
-        <type>16th</type>
-        <stem>none</stem>
-        <staff>1</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
-        </note>
       <note default-x="119.87" default-y="-30.00" dynamics="104.44">
         <pitch>
           <step>G</step>

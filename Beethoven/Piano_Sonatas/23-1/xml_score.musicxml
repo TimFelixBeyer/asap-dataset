@@ -25741,7 +25741,7 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>320389</duration>
         </backup>
       <note default-x="17.77" default-y="-10.00" print-object="no">
@@ -25789,7 +25789,10 @@
         </note>
       <forward>
         <duration>318811</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1578</duration>
+        </backup>
       <note default-x="293.78" default-y="-20.00" print-object="no">
         <cue/>
         <pitch>
@@ -26453,7 +26456,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>320389</duration>
         </backup>
       <note default-x="15.57" default-y="10.00" print-object="no">
@@ -26499,7 +26502,10 @@
         </note>
       <forward>
         <duration>318811</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1578</duration>
+        </backup>
       <note default-x="280.80" default-y="0.00" print-object="no">
         <cue/>
         <pitch>
@@ -27153,7 +27159,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>320389</duration>
         </backup>
       <note default-x="17.77" default-y="-30.00" print-object="no">
@@ -27201,7 +27207,10 @@
         </note>
       <forward>
         <duration>318811</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1578</duration>
+        </backup>
       <note default-x="251.81" default-y="-40.00" print-object="no">
         <cue/>
         <pitch>
@@ -28097,7 +28106,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>320389</duration>
         </backup>
       <note default-x="17.77" default-y="5.00" print-object="no">
@@ -28145,7 +28154,10 @@
         </note>
       <forward>
         <duration>318811</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1578</duration>
+        </backup>
       <note default-x="262.91" default-y="-5.00" print-object="no">
         <cue/>
         <pitch>
@@ -54819,7 +54831,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="17.77" default-y="-5.00" print-object="no">
@@ -54904,7 +54916,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+      </backup>
       <note default-x="574.91" default-y="-15.00" print-object="no">
         <cue/>
         <pitch>
@@ -56545,7 +56560,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="15.57" default-y="0.00" print-object="no">
@@ -56630,7 +56645,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+        </backup>
       <note default-x="568.29" default-y="-10.00" print-object="no">
         <cue/>
         <pitch>
@@ -57616,7 +57634,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="17.77" default-y="-5.00" print-object="no">
@@ -57701,7 +57719,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+        </backup>
       <note default-x="571.29" default-y="-15.00" print-object="no">
         <cue/>
         <pitch>
@@ -58533,7 +58554,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="15.57" default-y="5.00" print-object="no">
@@ -58616,7 +58637,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+        </backup>
       <note default-x="564.70" default-y="-5.00" print-object="no">
         <cue/>
         <pitch>
@@ -62949,7 +62973,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="17.77" default-y="-5.00" print-object="no">
@@ -63034,7 +63058,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+        </backup>
       <note default-x="376.44" default-y="-15.00" print-object="no">
         <cue/>
         <pitch>
@@ -64086,7 +64113,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="17.77" default-y="-5.00" print-object="no">
@@ -64171,7 +64198,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+        </backup>
       <note default-x="369.20" default-y="-15.00" print-object="no">
         <cue/>
         <pitch>
@@ -65206,7 +65236,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="15.57" default-y="5.00" print-object="no">
@@ -65289,7 +65319,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+        </backup>
       <note default-x="336.04" default-y="-5.00" print-object="no">
         <cue/>
         <pitch>
@@ -66361,7 +66394,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <backup>
+      <!-- <backup>
         <duration>639819</duration>
         </backup>
       <note default-x="15.57" default-y="15.00" print-object="no">
@@ -66448,7 +66481,10 @@
         </note>
       <forward>
         <duration>318812</duration>
-        </forward>
+        </forward> -->
+      <backup>
+        <duration>1440</duration>
+        </backup>
       <note default-x="393.35" default-y="5.00" print-object="no">
         <cue/>
         <pitch>

@@ -49,7 +49,7 @@
     <word-font font-family="Times New Roman" font-size="6.7"/>
   </defaults>
   <credit>
-    <credit-words default-x="1688" default-y="2176" font-family="FreeSerif" font-size="12" justify="right" valign="bottom">Maurice Ravel 
+    <credit-words default-x="1688" default-y="2176" font-family="FreeSerif" font-size="12" justify="right" valign="bottom">Maurice Ravel
 (1875-1937)</credit-words>
   </credit>
   <credit>
@@ -56219,7 +56219,7 @@
           <alter>1</alter>
           <octave>4</octave>
         </pitch>
-        <duration>85</duration>
+        <duration>86</duration>
         <voice>2</voice>
         <type>32nd</type>
         <time-modification>
@@ -56573,8 +56573,18 @@
         <stem>down</stem>
         <staff>1</staff>
       </note>
+      <note default-x="806">
+        <rest>
+          <display-step>E</display-step>
+          <display-octave>2</display-octave>
+        </rest>
+        <duration>510</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+      </note>
       <backup>
-        <duration>3072</duration>
+        <duration>3584</duration>
       </backup>
       <note default-x="135">
         <pitch>
@@ -56987,6 +56997,16 @@
         <duration>1024</duration>
         <voice>5</voice>
         <type>quarter</type>
+        <staff>2</staff>
+      </note>
+      <note default-x="806">
+        <rest>
+          <display-step>E</display-step>
+          <display-octave>2</display-octave>
+        </rest>
+        <duration>511</duration>
+        <voice>5</voice>
+        <type>eighth</type>
         <staff>2</staff>
       </note>
     </measure>

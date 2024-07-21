@@ -8274,15 +8274,11 @@
           <octave>5</octave>
           </pitch>
         <duration>4</duration>
-        <tie type="start"/>
         <voice>2</voice>
         <type>eighth</type>
         <stem>down</stem>
         <staff>1</staff>
         <beam number="1">end</beam>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       <backup>
         <duration>12</duration>

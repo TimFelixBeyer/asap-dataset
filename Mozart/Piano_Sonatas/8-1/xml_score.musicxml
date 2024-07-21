@@ -10562,10 +10562,14 @@
           <octave>4</octave>
           </pitch>
         <duration>16</duration>
+        <tie type="start"/>
         <voice>5</voice>
         <type>half</type>
         <stem>up</stem>
         <staff>2</staff>
+        <notations>
+          <tied type="start"/>
+          </notations>
         </note>
       <backup>
         <duration>32</duration>
@@ -10588,14 +10592,10 @@
           <octave>3</octave>
           </pitch>
         <duration>8</duration>
-        <tie type="start"/>
         <voice>6</voice>
         <type>quarter</type>
         <stem>down</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       </measure>
     <measure number="29" width="590.94">
@@ -40133,11 +40133,15 @@
           <octave>3</octave>
           </pitch>
         <duration>16</duration>
+        <tie type="start"/>
         <voice>5</voice>
         <type>half</type>
         <accidental>flat</accidental>
         <stem>up</stem>
         <staff>2</staff>
+        <notations>
+          <tied type="start"/>
+          </notations>
         </note>
       <backup>
         <duration>32</duration>
@@ -40160,14 +40164,10 @@
           <octave>3</octave>
           </pitch>
         <duration>8</duration>
-        <tie type="start"/>
         <voice>6</voice>
         <type>quarter</type>
         <stem>down</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       </measure>
     <measure number="110" width="583.77">
@@ -40434,13 +40434,18 @@
       <note default-x="51.61" default-y="-100.00">
         <pitch>
           <step>B</step>
+          <alter>-1</alter>
           <octave>3</octave>
           </pitch>
         <duration>8</duration>
+        <tie type="stop"/>
         <voice>5</voice>
         <type>quarter</type>
         <stem>up</stem>
         <staff>2</staff>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       <note default-x="183.45" default-y="-110.00">
         <pitch>
@@ -41221,14 +41226,10 @@
           <octave>3</octave>
           </pitch>
         <duration>8</duration>
-        <tie type="stop"/>
         <voice>6</voice>
         <type>quarter</type>
         <stem>down</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       </measure>
     <measure number="113" width="537.87">

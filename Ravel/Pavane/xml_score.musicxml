@@ -29894,26 +29894,16 @@
           </direction-type>
         <staff>1</staff>
         </direction>
-      <note default-x="519.26" default-y="-20.00" print-object="no">
+      <!-- <note default-x="519.26" default-y="-20.00" print-object="no">
         <rest/>
         <duration>30</duration>
         <voice>1</voice>
         <type>64th</type>
         <staff>1</staff>
-        </note>
+        </note> -->
       <backup>
-        <duration>510</duration>
-        </backup>
-      <note default-x="339.66" default-y="-50.00" print-object="no">
-        <rest>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </rest>
         <duration>240</duration>
-        <voice>4</voice>
-        <type size="cue">eighth</type>
-        <staff>1</staff>
-        </note>
+        </backup>
       <note default-x="383.61" default-y="-116.37">
         <pitch>
           <step>B</step>
@@ -30071,9 +30061,9 @@
           <step>B</step>
           <octave>1</octave>
           </pitch>
-        <duration>480</duration>
+        <duration>960</duration>
         <voice>5</voice>
-        <type>quarter</type>
+        <type>half</type>
         <stem>up</stem>
         <staff>2</staff>
         </note>
@@ -30083,25 +30073,28 @@
           <step>B</step>
           <octave>2</octave>
           </pitch>
-        <duration>480</duration>
+        <duration>960</duration>
         <tie type="stop"/>
         <voice>5</voice>
-        <type>quarter</type>
+        <type>half</type>
         <stem>up</stem>
         <staff>2</staff>
         <notations>
           <tied type="stop"/>
           </notations>
         </note>
+      <backup>
+        <duration>240</duration>
+        </backup>
       <note default-x="341.61" default-y="-116.37">
         <cue/>
         <pitch>
           <step>B</step>
           <octave>3</octave>
           </pitch>
-        <duration>480</duration>
-        <voice>5</voice>
-        <type>quarter</type>
+        <duration>240</duration>
+        <voice>6</voice>
+        <type>eighth</type>
         <stem>down</stem>
         <staff>2</staff>
         <notations>
@@ -30111,13 +30104,6 @@
             <accent/>
             </articulations>
           </notations>
-        </note>
-      <note default-x="519.26" default-y="-141.37" print-object="no">
-        <rest/>
-        <duration>30</duration>
-        <voice>5</voice>
-        <type>64th</type>
-        <staff>2</staff>
         </note>
       </measure>
     <measure number="67" width="462.87">

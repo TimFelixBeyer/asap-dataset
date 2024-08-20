@@ -10874,10 +10874,14 @@
           <octave>4</octave>
           </pitch>
         <duration>8</duration>
+        <tie type="stop"/>
         <voice>5</voice>
         <type>quarter</type>
         <stem>up</stem>
         <staff>2</staff>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       <note default-x="185.37" default-y="-110.00">
         <pitch>
@@ -11253,14 +11257,10 @@
           <octave>3</octave>
           </pitch>
         <duration>8</duration>
-        <tie type="stop"/>
         <voice>6</voice>
         <type>quarter</type>
         <stem>down</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note default-x="278.76" default-y="-110.00">
         <pitch>

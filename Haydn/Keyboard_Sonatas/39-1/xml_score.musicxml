@@ -3061,7 +3061,23 @@
         </note>
       </measure>
     <measure number="22" width="222.07">
+     <note default-x="12.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>12</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <staff>1</staff>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
       <note default-x="12.00" default-y="5.00">
+        <chord/>
         <pitch>
           <step>G</step>
           <octave>5</octave>
@@ -3184,14 +3200,10 @@
           <step>G</step>
           <octave>4</octave>
           </pitch>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
         <staff>1</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note default-x="41.61" default-y="-35.00">
         <pitch>

@@ -129,10 +129,8 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-38.52" default-y="151.51" relative-y="20.00" font-weight="bold" font-family="Times New Roman" font-size="12">Per la misura si conta nel largo sempre quattro semicrome, cio è 
-</words>
-          <words font-weight="normal" font-family="Leland Text">
-</words>
+          <words default-x="-38.52" default-y="151.51" relative-y="20.00" font-weight="bold" font-family="Times New Roman" font-size="12">Per la misura si conta nel largo sempre quattro semicrome, cio è</words>
+          <words font-weight="normal" font-family="Leland Text"></words>
           <words font-family="Times New Roman">       Largo (</words>
           <words font-family="Leland Text"></words>
           <words font-family="Times New Roman"> = 76)</words>
@@ -2551,15 +2549,19 @@
       <note default-x="329.97" default-y="30.00">
         <chord/>
         <pitch>
-          <step>E</step>
-          <alter>-1</alter>
+          <step>D</step>
+          <alter>1</alter>
           <octave>6</octave>
           </pitch>
         <duration>120</duration>
+        <tie type="stop"/>
         <voice>1</voice>
         <type>16th</type>
         <stem>down</stem>
         <staff>1</staff>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       <backup>
         <duration>1080</duration>

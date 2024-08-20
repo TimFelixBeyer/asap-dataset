@@ -42199,13 +42199,11 @@
           <octave>3</octave>
           </pitch>
         <duration>12</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
         <staff>1</staff>
         <notations>
-          <tied type="start"/>
           <articulations>
             <accent/>
             </articulations>
@@ -42219,15 +42217,11 @@
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>quarter</type>
         <accidental parentheses="yes">sharp</accidental>
         <stem>up</stem>
         <staff>1</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       <note default-x="29.55" default-y="-40.00">
         <chord/>
@@ -42364,14 +42358,10 @@
           <octave>3</octave>
           </pitch>
         <duration>6</duration>
-        <tie type="stop"/>
         <voice>2</voice>
         <type>eighth</type>
         <stem>down</stem>
         <staff>1</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note default-x="320.08" default-y="-50.00">
         <chord/>
@@ -42381,15 +42371,11 @@
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
-        <tie type="stop"/>
         <voice>2</voice>
         <type>eighth</type>
         <accidental parentheses="yes">sharp</accidental>
         <stem>down</stem>
         <staff>1</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note>
         <rest/>
@@ -43058,8 +43044,7 @@
       <note default-x="12.00" default-y="-110.00">
         <chord/>
         <pitch>
-          <step>G</step>
-          <alter>1</alter>
+          <step>A</step>
           <octave>3</octave>
           </pitch>
         <duration>24</duration>
@@ -43067,22 +43052,6 @@
         <type>half</type>
         <stem>down</stem>
         <staff>2</staff>
-        </note>
-      <note default-x="12.00" default-y="-100.00">
-        <chord/>
-        <pitch>
-          <step>B</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>24</duration>
-        <tie type="start"/>
-        <voice>5</voice>
-        <type>half</type>
-        <stem>down</stem>
-        <staff>2</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       <note default-x="67.57" default-y="-120.00">
         <pitch>
@@ -43106,14 +43075,10 @@
           <octave>3</octave>
           </pitch>
         <duration>24</duration>
-        <tie type="stop"/>
         <voice>5</voice>
         <type>half</type>
         <stem>down</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <backup>
         <duration>48</duration>

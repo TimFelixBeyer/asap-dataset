@@ -19372,10 +19372,14 @@
           <octave>3</octave>
         </pitch>
         <duration>2048</duration>
+        <tie type="stop"/>
         <voice>4</voice>
         <type>half</type>
         <stem default-y="44">up</stem>
         <staff>2</staff>
+        <notations>
+          <tied type="stop"/>
+        </notations>
       </note>
       <note default-x="16">
         <chord/>
@@ -19687,9 +19691,13 @@
           <octave>1</octave>
         </pitch>
         <duration>4096</duration>
+        <tie type="stop"/>
         <voice>5</voice>
         <type>whole</type>
         <staff>2</staff>
+         <notations>
+          <tied type="stop"/>
+        </notations>
       </note>
     </measure>
     <!--=======================================================-->
@@ -49830,9 +49838,13 @@
           <octave>1</octave>
         </pitch>
         <duration>4096</duration>
+        <tie type="stop"/>
         <voice>5</voice>
         <type>whole</type>
         <staff>2</staff>
+        <notations>
+          <tied type="stop"/>
+        </notations>
       </note>
     </measure>
     <!--=======================================================-->
@@ -53105,12 +53117,16 @@
           <octave>3</octave>
         </pitch>
         <duration>3072</duration>
+        <tie type="stop"/>
         <voice>4</voice>
         <type>half</type>
         <dot/>
         <accidental>sharp</accidental>
         <stem default-y="19">up</stem>
         <staff>2</staff>
+        <notations>
+          <tied type="stop"/>
+        </notations>
       </note>
       <direction placement="below">
         <direction-type>

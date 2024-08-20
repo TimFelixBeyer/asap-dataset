@@ -9582,11 +9582,15 @@
           <octave>4</octave>
           </pitch>
         <duration>36</duration>
+        <tie type="stop"/>
         <voice>2</voice>
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
         <staff>1</staff>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       <note default-x="204.65" default-y="-35.00">
         <chord/>
@@ -9730,11 +9734,15 @@
           <octave>3</octave>
           </pitch>
         <duration>36</duration>
+        <tie type="stop"/>
         <voice>5</voice>
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
         <staff>2</staff>
+        <notations>
+          <tied type="stop"/>
+          </notations>
         </note>
       <note print-object="no">
         <rest/>
@@ -9934,16 +9942,12 @@
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
         <staff>1</staff>
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note default-x="308.94" default-y="-25.00">
         <chord/>
@@ -9976,16 +9980,12 @@
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
         <staff>1</staff>
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note default-x="393.19" default-y="-60.00">
         <pitch>
@@ -11577,14 +11577,10 @@
           <octave>3</octave>
           </pitch>
         <duration>12</duration>
-        <tie type="stop"/>
         <voice>5</voice>
         <type>eighth</type>
         <stem>down</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note default-x="310.50" default-y="-135.00">
         <pitch>

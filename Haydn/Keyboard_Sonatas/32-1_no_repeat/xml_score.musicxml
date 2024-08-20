@@ -11795,14 +11795,10 @@
           <octave>4</octave>
           </pitch>
         <duration>24</duration>
-        <tie type="start"/>
         <voice>5</voice>
         <type>quarter</type>
         <stem>up</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       <note default-x="379.94" default-y="-155.00">
         <pitch>
@@ -13072,13 +13068,11 @@
           <octave>4</octave>
           </pitch>
         <duration>48</duration>
-        <tie type="stop"/>
         <voice>5</voice>
         <type>half</type>
         <stem>up</stem>
         <staff>2</staff>
         <notations>
-          <tied type="stop"/>
           <slur type="start" number="1"/>
           </notations>
         </note>

@@ -8622,13 +8622,11 @@
           <octave>5</octave>
           </pitch>
         <duration>24</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
         <staff>1</staff>
         <notations>
-          <tied type="start"/>
           <slur type="stop" number="1"/>
           </notations>
         </note>
@@ -9407,7 +9405,6 @@
           <octave>5</octave>
           </pitch>
         <duration>4</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>16th</type>
         <accidental parentheses="yes">natural</accidental>
@@ -9420,7 +9417,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <tied type="stop"/>
           <tuplet type="start" bracket="no"/>
           <articulations>
             <accent/>
@@ -17311,15 +17307,11 @@
           <octave>2</octave>
           </pitch>
         <duration>24</duration>
-        <tie type="start"/>
         <voice>6</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
         <stem>down</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       </measure>
     <measure number="38" width="1167.00">
@@ -18417,16 +18409,12 @@
           <octave>2</octave>
           </pitch>
         <duration>12</duration>
-        <tie type="stop"/>
         <voice>5</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
         <stem>up</stem>
         <staff>2</staff>
         <beam number="1">continue</beam>
-        <notations>
-          <tied type="stop"/>
-          </notations>
         </note>
       <note default-x="230.79" default-y="-115.00">
         <chord/>
@@ -26660,14 +26648,10 @@
           <octave>4</octave>
           </pitch>
         <duration>24</duration>
-        <tie type="start"/>
         <voice>5</voice>
         <type>quarter</type>
         <stem>up</stem>
         <staff>2</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
         </note>
       <note default-x="374.75" default-y="-160.00">
         <pitch>
@@ -26810,7 +26794,6 @@
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
-        <tie type="start"/>
         <voice>1</voice>
         <type>16th</type>
         <time-modification>
@@ -26822,7 +26805,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <tied type="start"/>
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
@@ -27295,7 +27277,6 @@
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
-        <tie type="stop"/>
         <voice>5</voice>
         <type>16th</type>
         <time-modification>
@@ -27307,7 +27288,6 @@
         <beam number="1">continue</beam>
         <beam number="2">end</beam>
         <notations>
-          <tied type="stop"/>
           <tuplet type="stop"/>
           <slur type="stop" number="1"/>
           <slur type="start" number="1"/>
@@ -27430,7 +27410,6 @@
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
-        <tie type="stop"/>
         <voice>1</voice>
         <type>16th</type>
         <time-modification>
@@ -27442,7 +27421,6 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <tied type="stop"/>
           <tuplet type="start" bracket="no"/>
           <slur type="start" placement="above" number="1"/>
           </notations>

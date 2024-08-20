@@ -49806,6 +49806,7 @@
         </note>
       <backup>
         <duration>1227</duration>
+        <!-- should be closer to 1202 -->
         </backup>
       <note default-x="205.54" default-y="-25.00">
         <pitch>
